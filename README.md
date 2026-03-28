@@ -77,7 +77,7 @@ The React app will run at `http://localhost:5173`
 ## 📚 API Documentation
 
 Once the server is running, the **Swagger API Documentation** is accessible at:
-👉 **[http://localhost:5000/api-docs](http://localhost:5000/api-docs)**
+👉 **[https://rest-api-practice-tt5c.onrender.com/api-docs](http://localhost:5000/api-docs)**
 
 Includes full schema definitions and allows you to test endpoints interactively.
 
